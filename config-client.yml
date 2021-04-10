@@ -2,3 +2,8 @@ user:
     name:wanghua
     mobile:18012345678
     password:123456
+    
+---
+server:
+    ip:127.0.0.1
+    name:localhost
