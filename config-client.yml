@@ -1,9 +1,7 @@
-user:
-    password:123456
-    mobile:18012345678
-    user_name:wanghua
+user.password:123456
+user.mobile:18012345678
+user.user_name:wanghua
     
 ---
-server:
-    ip:127.0.0.1
-    server_name:localhost
+server.ip:127.0.0.1
+server.server_name:localhost
